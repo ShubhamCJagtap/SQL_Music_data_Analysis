@@ -1,5 +1,8 @@
 # SQL Project Music Dataset Analysis
 
+## Schema Diagram
+<img src='./schema_diagram.png'>
+
 1. Who is the senior most employee based on job title?
    <img src='./images/q1.PNG'>
    
