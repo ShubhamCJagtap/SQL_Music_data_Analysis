@@ -1,7 +1,7 @@
 # SQL Project Music Dataset Analysis
 
 1. Who is the senior most employee based on job title?
-   `<img src='./images/q1.PNG'>`
+   <img src='./images/q1.PNG'>
 2. Which countries have the most Invoices?
    `<img src='./images/q2.PNG'>`
 3. What are top 3 values of total invoice?
